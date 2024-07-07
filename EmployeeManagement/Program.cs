@@ -1,4 +1,6 @@
 using EmployeeManagement.Data;
+using EmployeeManagement.Repository.Implementation;
+using EmployeeManagement.Repository.Interface;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
 
@@ -13,6 +15,10 @@ builder.Services.AddSwaggerGen();
 
 builder.Services.AddDbContext<AppDbContext>(options =>
         options.UseSqlServer(builder.Configuration.GetConnectionString("DBConnection")));
+
+builder.Services.AddScoped<IDepartmentRepository, DepartmentRespository>();
+builder.Services.AddScoped<IEmployeeRepository, EmployeeRepository>();
+
 var app = builder.Build();
 
 // Configure the HTTP request pipeline.
