@@ -14,8 +14,7 @@ This Employee Management application is a personal passion project, focused on m
 ### Prerequisites:
 - [.NET 6.0 SDK](https://dotnet.microsoft.com/download/dotnet/6.0)
 - [SQL Server](https://www.microsoft.com/en-us/sql-server/sql-server-downloads)
-- [Node.js](https://nodejs.org/)
-- [Angular CLI](https://angular.io/cli)
+
 
 ### Getting Started
 
@@ -35,13 +34,7 @@ This Employee Management application is a personal passion project, focused on m
       dotnet run
       ```
 
-3. **Set up the frontend:**
-    - Navigate to the `EmployeeManagement.UI` directory.
-    - Install dependencies and start the Angular application:
-      ```bash
-      npm install
-      ng serve
-      ```
+
 
 ## Project Structure
 
@@ -51,19 +44,7 @@ This Employee Management application is a personal passion project, focused on m
 - **Repositories:** Implements the Repository pattern for data access.
 - **Controllers:** API endpoints to handle CRUD operations.
 
-### Frontend (Angular)
-
-- **Components:** UI components for displaying and managing data.
-- **Services:** Handles communication with the backend API.
-
-## Contributing
-
-Contributions are welcome! Please fork the repository and create a pull request with your changes.
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ## Contact
 
-For any questions or feedback, please reach out to [your-email@example.com](mailto:your-email@example.com).
+For any questions or feedback, please reach out to [msraselhassan@gmail.com](mailto:msraselhassan@gmail.com).
