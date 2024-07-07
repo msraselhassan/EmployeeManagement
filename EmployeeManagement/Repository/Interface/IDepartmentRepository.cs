@@ -4,7 +4,7 @@ namespace EmployeeManagement.Repository.Interface
 {
     public interface IDepartmentRepository
     {
-        IEnumerable<Department> GetDepartmentList();
-        Department GetDepartmentById(int departmentId);
+        Task<IEnumerable<Department>> GetDepartmentList();
+        Task<Department> GetDepartmentById(int departmentId);
     }
 }
