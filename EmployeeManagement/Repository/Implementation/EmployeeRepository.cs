@@ -26,7 +26,8 @@ namespace EmployeeManagement.Repository.Implementation
             if (result != null)
             {
                 appDbContext.Employees.Remove(result);
-                await appDbContext.SaveChangesAsync();  
+                await appDbContext.SaveChangesAsync();
+               
             }
             
         }

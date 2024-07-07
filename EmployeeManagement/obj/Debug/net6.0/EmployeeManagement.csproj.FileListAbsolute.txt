@@ -1,3 +1,11 @@
+D:\projects\github\EmployeeManagement\EmployeeManagement\obj\Debug\net6.0\EmployeeManagement.csproj.AssemblyReference.cache
+D:\projects\github\EmployeeManagement\EmployeeManagement\obj\Debug\net6.0\EmployeeManagement.GeneratedMSBuildEditorConfig.editorconfig
+D:\projects\github\EmployeeManagement\EmployeeManagement\obj\Debug\net6.0\EmployeeManagement.AssemblyInfoInputs.cache
+D:\projects\github\EmployeeManagement\EmployeeManagement\obj\Debug\net6.0\EmployeeManagement.AssemblyInfo.cs
+D:\projects\github\EmployeeManagement\EmployeeManagement\obj\Debug\net6.0\EmployeeManagement.csproj.CoreCompileInputs.cache
+D:\projects\github\EmployeeManagement\EmployeeManagement\obj\Debug\net6.0\EmployeeManagement.MvcApplicationPartsAssemblyInfo.cs
+D:\projects\github\EmployeeManagement\EmployeeManagement\obj\Debug\net6.0\EmployeeManagement.MvcApplicationPartsAssemblyInfo.cache
+D:\projects\github\EmployeeManagement\EmployeeManagement\obj\Debug\net6.0\EmployeeManagement.sourcelink.json
 D:\projects\github\EmployeeManagement\EmployeeManagement\bin\Debug\net6.0\appsettings.Development.json
 D:\projects\github\EmployeeManagement\EmployeeManagement\bin\Debug\net6.0\appsettings.json
 D:\projects\github\EmployeeManagement\EmployeeManagement\bin\Debug\net6.0\EmployeeManagement.exe
@@ -45,14 +53,6 @@ D:\projects\github\EmployeeManagement\EmployeeManagement\bin\Debug\net6.0\runtim
 D:\projects\github\EmployeeManagement\EmployeeManagement\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
 D:\projects\github\EmployeeManagement\EmployeeManagement\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
 D:\projects\github\EmployeeManagement\EmployeeManagement\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
-D:\projects\github\EmployeeManagement\EmployeeManagement\obj\Debug\net6.0\EmployeeManagement.csproj.AssemblyReference.cache
-D:\projects\github\EmployeeManagement\EmployeeManagement\obj\Debug\net6.0\EmployeeManagement.GeneratedMSBuildEditorConfig.editorconfig
-D:\projects\github\EmployeeManagement\EmployeeManagement\obj\Debug\net6.0\EmployeeManagement.AssemblyInfoInputs.cache
-D:\projects\github\EmployeeManagement\EmployeeManagement\obj\Debug\net6.0\EmployeeManagement.AssemblyInfo.cs
-D:\projects\github\EmployeeManagement\EmployeeManagement\obj\Debug\net6.0\EmployeeManagement.csproj.CoreCompileInputs.cache
-D:\projects\github\EmployeeManagement\EmployeeManagement\obj\Debug\net6.0\EmployeeManagement.MvcApplicationPartsAssemblyInfo.cs
-D:\projects\github\EmployeeManagement\EmployeeManagement\obj\Debug\net6.0\EmployeeManagement.MvcApplicationPartsAssemblyInfo.cache
-D:\projects\github\EmployeeManagement\EmployeeManagement\obj\Debug\net6.0\EmployeeManagement.sourcelink.json
 D:\projects\github\EmployeeManagement\EmployeeManagement\obj\Debug\net6.0\staticwebassets.build.json
 D:\projects\github\EmployeeManagement\EmployeeManagement\obj\Debug\net6.0\staticwebassets.development.json
 D:\projects\github\EmployeeManagement\EmployeeManagement\obj\Debug\net6.0\staticwebassets\msbuild.EmployeeManagement.Microsoft.AspNetCore.StaticWebAssets.props
